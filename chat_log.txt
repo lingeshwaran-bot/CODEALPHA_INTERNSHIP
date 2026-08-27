@@ -1,0 +1,16 @@
+[11:56:01] You: hi
+[11:56:01] CodeBot: Hello! How can I help you today?
+[11:56:21] You: what is codealpha
+[11:56:21] CodeBot: CodeAlpha runs internship programs where you build real projects, like this very chatbot, to gain practical experience.
+[12:04:53] You: hi
+[12:04:53] CodeBot: Hey! Ask me anything.
+[12:05:09] You: what is code alpha
+[12:05:09] CodeBot: I'm CodeBot — your friendly Java-powered assistant.
+[12:05:24] You: help
+[12:05:24] CodeBot: I can chat with you, answer FAQs, and demonstrate simple rule-based NLP. Try asking me about CodeAlpha, Java, or just say hi!
+[12:25:13] You: hi
+[12:25:13] CodeBot: Hi there! What can I do for you?
+[12:25:20] You: help
+[12:25:20] CodeBot: I can chat with you, answer FAQs, and demonstrate simple rule-based NLP. Try asking me about CodeAlpha, Java, or just say hi!
+[12:25:37] You: tell me about CodeAlpha
+[12:25:37] CodeBot: CodeAlpha is a software development company offering internships in Java, web development, and more, with hands-on real-world projects.
